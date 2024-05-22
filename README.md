@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 
 ##
 
-<!--->
+<!---
 
 #
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 </details>
+-->
