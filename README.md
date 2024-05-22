@@ -2,9 +2,11 @@
 
 **`👨‍💻 Full Stack Developer (MERN)`**
 
-- 🚀 Successfully completed a Full Stack Developer course from <a href="https://github.com/goitacademy" target="_blank">GoIT</a>
+- 🚀 Successfully completed a Full Stack Developer course from [GoIT](https://github.com/goitacademy)
 - 🌍 I am from Kyiv, Ukraine, but currently based in Tbilisi, Georgia
 - 🤝 Opened to cooperation and collaboration
+
+* 📨 Feel free to contact me at [email](mailto:olhasliusarenkowork@gmail.com), [LinkedIn](https://www.linkedin.com/in/olha-sliusarenko/) or [telegram](https://t.me/olhasliusarenko)
 
 <!--
 
