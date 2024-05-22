@@ -1,6 +1,10 @@
 # Olha Sliusarenko
 
-**`Full Stack Developer`**
+**`👨‍💻 Full Stack Developer (MERN)`**
+
+🚀 Successfully completed a Full Stack Developer course from <a href="https://github.com/goitacademy" target="_blank">GoIT</a>
+🌍 I am from Kyiv, Ukraine, but currently based in Tbilisi, Georgia
+🤝 Opened to cooperation and collaboration
 
 <!--
 
