@@ -7,7 +7,7 @@ My whole life I was told I was only good for humanities, but in my early 20s I s
 - 🎯 Successfully completed a Full Stack Developer course from [GoIT](https://github.com/goitacademy)
 - 🚀 Twice was a lead on team projects during my studies ||❓ because if it's scary and implies more responsibility - I have to do it to grow
 - 🌍 I am from Kyiv, Ukraine, but currently based in Tbilisi, Georgia
-- 🤝 Opened to cooperation and collaboration
+- 🤝 Open to cooperation and collaboration
 
 * 📨 Feel free to contact me at [email](mailto:olhasliusarenkowork@gmail.com), [LinkedIn](https://www.linkedin.com/in/olha-sliusarenko/) or [telegram](https://t.me/olhasliusarenko)
 
