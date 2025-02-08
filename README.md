@@ -9,7 +9,12 @@ My whole life I was told I was only good for humanities, but in my early 20s I s
 - 🌍 I am from Kyiv, Ukraine, but currently based in Tbilisi, Georgia
 - 🤝 Open to cooperation and collaboration
 
-* 📨 Feel free to contact me at [email](mailto:olhasliusarenkowork@gmail.com), [LinkedIn](https://www.linkedin.com/in/olha-sliusarenko/) or [telegram](https://t.me/olhasliusarenko)
+### Connect with me
+
+[![](https://img.shields.io/badge/email-%23ececec?style=for-the-badge&logo=email)](mailto:olhasliusarenkowork@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olha-sliusarenko/)
+[![](https://img.shields.io/badge/telegram-%23ececec?style=for-the-badge&logo=telegram)](https://t.me/olhasliusarenko)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/committedto_git?style=for-the-badge&logo=X&color=%231a1813)
 
 ---
 
