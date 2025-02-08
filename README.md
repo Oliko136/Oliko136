@@ -11,10 +11,11 @@ Be a part of my journey to conquering the fascinating world of code.
 
 ### Connect with me
 
-[![](https://img.shields.io/badge/email-%23ececec?style=for-the-badge&logo=email)](mailto:olhasliusarenkowork@gmail.com)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olha-sliusarenko/)
-[![](https://img.shields.io/badge/telegram-%23ececec?style=for-the-badge&logo=telegram)](https://t.me/olhasliusarenko)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/committedto_git?style=for-the-badge&logo=X&color=%231a1813)
+[![Email link](https://img.shields.io/badge/email-%23ececec?style=for-the-badge&logo=email)](mailto:olhasliusarenkowork@gmail.com)
+[![LinkedIn profile link](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olha-sliusarenko/)
+[![Telegram contact link](https://img.shields.io/badge/telegram-%23ececec?style=for-the-badge&logo=telegram)](https://t.me/olhasliusarenko)
+[![Instagram profile link](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/committedto_git/)
+[![X (formerly Twitter) profile link](https://img.shields.io/twitter/follow/committedto_git?style=for-the-badge&logo=X&color=%231a1813)](https://x.com/committedto_git)
 
 ---
 
