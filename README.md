@@ -2,7 +2,7 @@
 
 **`👨‍💻 Full Stack Developer (MERN)`**
 
-My whole life I was told I was only good for humanities, but in my early 20s I stopped believing them and found my passion for programming - a perfect blend of logic and creativity. Be a part of my journey to conquering the fascinating world of code.
+Be a part of my journey to conquering the fascinating world of code.
 
 - 🎯 Successfully completed a Full Stack Developer course from [GoIT](https://github.com/goitacademy)
 - 🚀 Twice was a lead on team projects during my studies ||❓ because if it's scary and implies more responsibility - I have to do it to grow
